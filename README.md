@@ -44,7 +44,6 @@ I am a results-driven **Senior Software Engineer** with **6+ years of experience
 
 ## 📚 Education  
 🎓 **B.Sc. in Computer Science & Engineering**  
-📍 *Uttara University, Bangladesh*  
 
 ---
 
@@ -56,4 +55,14 @@ I am a results-driven **Senior Software Engineer** with **6+ years of experience
 
 ## 📫 Contact Me  
 📧 [alaminbinmannan@gmail.com](mailto:alaminbinmannan@gmail.com)  
-📍 Dhaka, Bangladesh  
+<div style="margin-top: 7px; margin-bottom: 10px;">
+    <a href="https://www.linkedin.com/in/aabam99" style="display: inline-flex; align-items: center; gap: 5px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20px" height="20px" alt="LinkedIn">
+    </a>  
+    <a href="https://www.linkedin.com/in/aabam99">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white">
+    </a>
+</div> 
+
+
+
