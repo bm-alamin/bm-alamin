@@ -49,8 +49,8 @@ I am a results-driven **Senior Software Engineer** with **6+ years of experience
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaminbinmannan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminbinmannan&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bm-alamin&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bm-alamin&layout=compact&theme=radical)  
 
 ---
 
