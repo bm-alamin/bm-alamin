@@ -1,6 +1,6 @@
 # 💫 About Me
 
-### **Manager | Senior Software Engineer | Java Specialist**  
+### **Team Lead | Senior Software Engineer | Java & Spring Boot Specialist | Database**  
 🚀 Passionate about building scalable software solutions  
 
 I am a results-driven **Senior Software Engineer** with **6+ years of experience** in **Java and Spring Boot**. My expertise lies in designing and developing **scalable microservices**, integrating **IAM solutions**, and working with **enterprise-level API gateways**. I have led teams, architected critical backend services, and contributed to various fintech, government, and enterprise projects.  
